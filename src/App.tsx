@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>A list of all my major and minor projects</h1>
+      <h1>A list of all my major & minor projects</h1>
       <ul>
         <li>
           <a href="#">Project 1</a>
